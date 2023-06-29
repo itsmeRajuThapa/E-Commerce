@@ -1,0 +1,11 @@
+import 'package:emart_user/consts/consts.dart';
+
+Widget ourButton(onPress, color, textColor, String title) {
+  return ElevatedButton(
+      style: ElevatedButton.styleFrom(
+          // ignore: deprecated_member_use
+          primary: color,
+          padding: const EdgeInsets.all(12)),
+      onPressed: onPress,
+      child: title.text.white.fontFamily(bold).size(8).make());
+}

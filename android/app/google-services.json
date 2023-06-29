@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "923310402675",
+    "project_id": "emartapp-e035b",
+    "storage_bucket": "emartapp-e035b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923310402675:android:8406f6f00b99fdb0da8e06",
+        "android_client_info": {
+          "package_name": "com.example.emart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923310402675-ipbij26ar36fm07c84r86slmoqe71v14.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAScpKNMsiHEPm_btoVlYrnjndgCuqpmxI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923310402675-ipbij26ar36fm07c84r86slmoqe71v14.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923310402675:android:b8e66825fdc7dfebda8e06",
+        "android_client_info": {
+          "package_name": "com.example.emart_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923310402675-llso88svslsnhvudrljqgotq2alg0dtp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.emart_app",
+            "certificate_hash": "ded5f60ce564c9de847ffc195eff3298713a8c03"
+          }
+        },
+        {
+          "client_id": "923310402675-ipbij26ar36fm07c84r86slmoqe71v14.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAScpKNMsiHEPm_btoVlYrnjndgCuqpmxI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923310402675-ipbij26ar36fm07c84r86slmoqe71v14.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923310402675:android:5311aee985766511da8e06",
+        "android_client_info": {
+          "package_name": "com.example.emart_user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923310402675-ipbij26ar36fm07c84r86slmoqe71v14.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAScpKNMsiHEPm_btoVlYrnjndgCuqpmxI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923310402675-ipbij26ar36fm07c84r86slmoqe71v14.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
